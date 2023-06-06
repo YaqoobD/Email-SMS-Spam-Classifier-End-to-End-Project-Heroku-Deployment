@@ -46,16 +46,12 @@ If there is no requirements.txt file in your project, you can mention the requir
 Installation and Usage
 To run the project locally, follow these steps:
 
-Clone the repository from GitHub.
-Install the required dependencies using the following commands:
-Copy code
-pip install pandas
-pip install scikit-learn
-pip install nltk
-pip install wordcloud
-pip install streamlit
-Run the Streamlit application using the command streamlit run app.py.
-Access the web application in your browser at the provided local URL.
+* Clone the repository from GitHub.
+ *Install the required dependencies using the following commands:
+![image](https://github.com/YaqoobD/Email-SMS-Spam-Classifier-End-to-End-Project-Heroku-Deployment/assets/52135942/dfbca8e4-cfd2-4c7e-9781-b5b55d39118f)
+
+* Run the Streamlit application using the command streamlit run app.py.
+* Access the web application in your browser at the provided local URL.
 You can then interact with the web application by entering new email or SMS messages and getting the classification results.
 
 Make sure you have Python and pip installed on your system before running the installation commands.
