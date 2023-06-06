@@ -72,3 +72,11 @@ Explore additional preprocessing techniques, such as lemmatization
 ![image](https://github.com/YaqoobD/Email-SMS-Spam-Classifier-End-to-End-Project-Heroku-Deployment/assets/52135942/4e12eed4-935b-48bf-93e1-6dff8f926eb7)
 
 ![image](https://github.com/YaqoobD/Email-SMS-Spam-Classifier-End-to-End-Project-Heroku-Deployment/assets/52135942/b9ad09cd-650b-48d1-824e-c735fde7168d)
+
+## Conclusion 🎉
+
+In this project, we built an Email/SMS spam or not spam classifier using machine learning techniques. By preprocessing the dataset, applying vectorization techniques, and training a Naive Bayes classifier, we achieved a high accuracy of 0.97 on the test data.
+
+The web application built with Streamlit provides a user-friendly interface to classify new email or SMS messages. The future improvements section suggests potential enhancements, and the app demo allows you to experience the classifier in action.
+
+Thank you for reading! If you have any questions or feedback, feel free to reach out. Happy classifying! 📩🔍
