@@ -47,7 +47,7 @@ Installation and Usage
 To run the project locally, follow these steps:
 
 * Clone the repository from GitHub.
- *Install the required dependencies using the following commands:
+* Install the required dependencies using the following commands:
 ![image](https://github.com/YaqoobD/Email-SMS-Spam-Classifier-End-to-End-Project-Heroku-Deployment/assets/52135942/dfbca8e4-cfd2-4c7e-9781-b5b55d39118f)
 
 * Run the Streamlit application using the command streamlit run app.py.
