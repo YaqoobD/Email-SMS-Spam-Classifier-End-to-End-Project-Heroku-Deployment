@@ -40,13 +40,27 @@ To gain a better understanding of the text data, a word cloud was generated. A w
 The project includes a web application built using Streamlit, a Python library for building interactive web applications. The web application provides a user interface to input new email or SMS messages and get a prediction on whether they are spam or not spam based on the trained classifier.
 
 ## Installation and Usage
+
+If there is no requirements.txt file in your project, you can mention the required dependencies in your README file along with the installation instructions. Here's an updated section for installation and usage:
+
+Installation and Usage
 To run the project locally, follow these steps:
 
 Clone the repository from GitHub.
-Install the required dependencies listed in the requirements.txt file.
+Install the required dependencies using the following commands:
+Copy code
+pip install pandas
+pip install scikit-learn
+pip install nltk
+pip install wordcloud
+pip install streamlit
 Run the Streamlit application using the command streamlit run app.py.
 Access the web application in your browser at the provided local URL.
 You can then interact with the web application by entering new email or SMS messages and getting the classification results.
+
+Make sure you have Python and pip installed on your system before running the installation commands.
+
+Feel free to modify the dependencies based on your specific requirements and package versions.
 
 ## Future Improvements
 Here are some potential areas for future improvements:
