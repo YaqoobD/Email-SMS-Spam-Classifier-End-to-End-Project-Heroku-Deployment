@@ -1,4 +1,4 @@
-# Email-SMS-Spam-Classifier-End-to-End-Project-Heroku-Deployment
+# Email/SMS Spam or Not Spam Classifier 📧📵
 ## Email/SMS Spam or Not Spam Classifier
 This project aims to classify whether an email or SMS is spam or not spam using machine learning techniques. The dataset used for this project is the Kaggle SMS Spam Collection Dataset, which contains a collection of SMS messages labeled as spam or not spam.
 
