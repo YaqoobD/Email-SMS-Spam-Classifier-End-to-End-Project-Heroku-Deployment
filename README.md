@@ -4,7 +4,7 @@ This project aims to classify whether an email or SMS is spam or not spam using 
 
 ## Dataset 📊
 
-The dataset used for this project has the following dimensions: (5572, 5). It cnsists of SMS messages along with their corresponding labels. The preprocessing steps performed on the dataset are as follows:
+The dataset used for this project has the following dimensions: (5572, 5). It consists of SMS messages along with their corresponding labels. The preprocessing steps performed on the dataset are as follows:
 
 Lowercasing: All text in the SMS messages is converted to lowercase to ensure consistency.
 
